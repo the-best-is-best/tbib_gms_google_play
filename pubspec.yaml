@@ -1,11 +1,11 @@
 name: tbib_gms_google_play
 description: GMS google play
 version: 0.0.1
-homepage:
+homepage: https://github.com/the-best-is-best/tbib_gms_google_play
 
 environment:
-  sdk: ">=2.16.2 <3.0.0"
-  flutter: ">=2.5.0"
+  sdk: ">=2.17.1 <3.0.0"
+  flutter: ">=2.11.0"
 
 dependencies:
   flutter:
